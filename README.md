@@ -30,7 +30,8 @@ Prediction on Satellite Images of Mumbai
 
 ### Get this repo: 
 
-```git clone https://github.com/Param1304/Land-Usage-Classification-from-Satellite-Images
+```
+git clone https://github.com/Param1304/Land-Usage-Classification-from-Satellite-Images
 cd Land-Usage-Classification-from-Satellite-Images
 pip install -r requirements.txt
 ```
