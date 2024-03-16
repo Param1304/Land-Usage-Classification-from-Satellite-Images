@@ -28,7 +28,8 @@ Prediction on Satellite Images of Mumbai
 3. Torchsummary
 4. pandas
 5. ssl
-###Hardware
+   
+### Hardware
    GPU T4x2 
 
 
