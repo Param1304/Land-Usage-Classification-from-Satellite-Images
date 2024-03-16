@@ -15,6 +15,7 @@ This Deep Learning projects aims at utilizing the deep CNN technology for Earth 
 ![](https://github.com/Param1304/Land-Usage-Classification-from-Satellite-Images/blob/main/Results/Screenshot%20from%202024-03-16%2001-11-47.png?raw=True)
 
 Prediction on Satellite Images of Mumbai
+
 ![](https://github.com/Param1304/Land-Usage-Classification-from-Satellite-Images/blob/main/Results/Screenshot%20from%202024-03-16%2001-10-42.png?raw=True)
 
 ![](https://github.com/Param1304/Land-Usage-Classification-from-Satellite-Images/blob/main/Results/Screenshot%20from%202024-03-16%2001-20-07.png?raw=True)
